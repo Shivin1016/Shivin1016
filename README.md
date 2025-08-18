@@ -1,4 +1,7 @@
-<h1 align="center">  Hi There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Shivani Prajapati </h1> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Shivani!;Frontend+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%9F;" />
+</h1> 
+
 <h3 align="center">  A passionate Frontend Developer from Kanpur, India</h3>  
 
 
@@ -12,8 +15,11 @@
 - ⚡ **Fun fact:** Don't be Global , Be local
 - ✉️ Email Me 👉 **shivaniprajapati10jan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<h4 align="center"> Never Ever Stop Keep Moving 🎯</h4> 
 </br>
+<h4 align="center"> Never Ever Stop Keep Moving 🎯</h4>  
+
+ </br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivaniprajapatii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivani-p-959v1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SPrajapati1086) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivaniprajapati10jan@gmail.com) 
