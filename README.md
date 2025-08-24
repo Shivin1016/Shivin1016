@@ -5,8 +5,7 @@
 <h3 align="center">  A passionate Frontend Developer from Kanpur, India</h3>  
 
 
- 💫 About Me  
-- 🔭 **I’m currently working on:** project which is relay on Animation of CSS templates
+ 💫 About Me   
 - 🌱 **I’m currently learning:** DSA and Web development  
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
