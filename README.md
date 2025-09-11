@@ -9,7 +9,7 @@
 - 🌱 **I’m currently learning:** DSA and Web development  
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Shivani
+- 😄 **Pronouns:** Shivin
 - 🥅 **2025 Goals:** Learn MERN Stack, Nextjs And strengthen DSA.
 - ⚡ **Fun fact:** Don't be Global , Be local
 - ✉️ Email Me 👉 **shivaniprajapati10jan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
