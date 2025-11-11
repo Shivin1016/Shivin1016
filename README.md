@@ -15,7 +15,7 @@
 - ✉️ Email Me 👉 **shivaniprajapati10jan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 </br>
-<h4 align="center"> Never Ever Stop Keep Moving 🎯</h4>  
+<h4 align="center">Debug The Code else Code debug You 😄</h4>  
 
  </br>
 
