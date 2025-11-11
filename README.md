@@ -15,7 +15,7 @@
 - ✉️ Email Me 👉 **shivaniprajapati10jan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 </br>
-<h4 align="center">Debug The Code else Code debug You 😄</h4>  
+<h2 align="center">Debug The Code else Code debug You 😄</h2>  
 
  </br>
 
