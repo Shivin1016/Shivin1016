@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Shivin!;Frontend+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%9F;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Shivin!;Full Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%9F;" />
 </h1> 
 
-<h3 align="center">  A passionate Frontend Developer from Kanpur, India</h3>  
+<h3 align="center">  A passionate Full Stack Developer from Kanpur, India</h3>  
 
 
  💫 About Me   
